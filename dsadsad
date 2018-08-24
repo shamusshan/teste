@@ -1,0 +1,49 @@
+[33mcommit 4912eb815a487afd866ff494986985a543879740[m[33m ([m[1;36mHEAD -> [m[1;32mkaio[m[33m)[m
+Merge: 4606260 750a2f3
+Author: shammusshan <shammus.shan@gmail.com>
+Date:   Fri Aug 24 12:05:27 2018 -0300
+
+    Merge branch 'master' into kaio
+
+[33mcommit 4606260755b13b825d9338d3b15eabbd44e35ba4[m
+Author: shammusshan <shammus.shan@gmail.com>
+Date:   Fri Aug 24 12:03:26 2018 -0300
+
+    bloco
+
+[33mcommit 284f23c72bf0029bf23c6ce04316ff82d7023a23[m[33m ([m[1;31morigin/kaio[m[33m)[m
+Author: shamuskaio <shamuskaio@gmail.com>
+Date:   Fri Aug 24 11:45:04 2018 -0300
+
+    branch kaio
+
+[33mcommit 750a2f34d9761c0ff5670b78520f2edb3c20979b[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: c70d8ab f8e3e04
+Author: shammusshan <shammus.shan@gmail.com>
+Date:   Fri Aug 24 11:43:07 2018 -0300
+
+    conflito resolvido
+
+[33mcommit c70d8ab530400c7d05f9428c2b0f8ee7d6867a30[m
+Author: shammusshan <shammus.shan@gmail.com>
+Date:   Fri Aug 24 11:37:39 2018 -0300
+
+    div add
+
+[33mcommit f8e3e04362ff2e3fe3d41489effc36c2ddf26662[m
+Author: shamuskaio <shamuskaio@gmail.com>
+Date:   Fri Aug 24 11:35:38 2018 -0300
+
+    ups
+
+[33mcommit 59a4c1c834516063152416a9d883ef27593eda62[m
+Author: shammusshan <shammus.shan@gmail.com>
+Date:   Fri Aug 24 01:02:59 2018 -0300
+
+    initial
+
+[33mcommit c55c6be7d82078a3339c6fbb3c6c75f2e291f9a9[m
+Author: shammus shan <42664183+shamusshan@users.noreply.github.com>
+Date:   Fri Aug 24 00:45:41 2018 -0300
+
+    Initial commit
